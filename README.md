@@ -1,5 +1,16 @@
 # curso-facilito
+
+## Activamos el entorno virtual
 ```
-source ~/Documentos/.venv/bin/activate
+virtualenv env --python=python3
+cd env
+source bin/activate
 ```
+
+## Activamos Django
+```
+pip install Django
+```
+
+
 
