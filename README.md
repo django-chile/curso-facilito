@@ -12,5 +12,15 @@ source bin/activate
 pip install Django
 ```
 
+## Creamos proyecto Django
+```
+django-admin startproject refugio
+```
+
+## Creamos aplicaciones Django
+```
+cd apps
+django-admin startapp mascota
+```
 
 
